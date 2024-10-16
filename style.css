@@ -1,0 +1,27 @@
+*{
+    /* background-color: black; */
+}
+
+.container-card{
+    margin:2%;
+    padding: 3%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.card{
+ margin: 1%;
+}
+
+.card-end{
+    /* background-color: brown !important;
+   color: red; */
+}
+
+.formulaire{
+    background-color:beige;
+    border-radius: 10px;
+    margin: 5%;
+    padding: 4%;
+}
